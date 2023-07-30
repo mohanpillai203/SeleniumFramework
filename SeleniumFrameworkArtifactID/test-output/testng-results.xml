@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-30T10:36:57 IST" name="Suite1" finished-at="2023-07-30T10:38:36 IST" duration-ms="98840">
+    <groups>
+    </groups>
+    <test started-at="2023-07-30T10:36:57 IST" name="TestOnEdge" finished-at="2023-07-30T10:37:38 IST" duration-ms="41341">
+      <class name="multiBrowser.TestNGMultiBrowser">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:multiBrowser.TestNGMultiBrowser@610f7aa]" started-at="2023-07-30T10:36:57 IST" name="setup" finished-at="2023-07-30T10:37:17 IST" duration-ms="19889" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:multiBrowser.TestNGMultiBrowser@610f7aa]" started-at="2023-07-30T10:37:17 IST" name="test1" finished-at="2023-07-30T10:37:38 IST" duration-ms="21306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:multiBrowser.TestNGMultiBrowser@610f7aa]" started-at="2023-07-30T10:37:38 IST" name="teardown" finished-at="2023-07-30T10:37:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- multiBrowser.TestNGMultiBrowser -->
+    </test> <!-- TestOnEdge -->
+    <test started-at="2023-07-30T10:36:57 IST" name="TestOnChrome" finished-at="2023-07-30T10:37:39 IST" duration-ms="41385">
+      <class name="multiBrowser.TestNGMultiBrowser">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:multiBrowser.TestNGMultiBrowser@5aebe890]" started-at="2023-07-30T10:36:57 IST" name="setup" finished-at="2023-07-30T10:37:15 IST" duration-ms="18097" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:multiBrowser.TestNGMultiBrowser@5aebe890]" started-at="2023-07-30T10:37:15 IST" name="test1" finished-at="2023-07-30T10:37:39 IST" duration-ms="23243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:multiBrowser.TestNGMultiBrowser@5aebe890]" started-at="2023-07-30T10:37:39 IST" name="teardown" finished-at="2023-07-30T10:37:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- multiBrowser.TestNGMultiBrowser -->
+    </test> <!-- TestOnChrome -->
+    <test started-at="2023-07-30T10:36:57 IST" name="TestOnFirefox" finished-at="2023-07-30T10:38:36 IST" duration-ms="98840">
+      <class name="multiBrowser.TestNGMultiBrowser">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:multiBrowser.TestNGMultiBrowser@175b9425]" started-at="2023-07-30T10:36:57 IST" name="setup" finished-at="2023-07-30T10:38:02 IST" duration-ms="64528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:multiBrowser.TestNGMultiBrowser@175b9425]" started-at="2023-07-30T10:38:02 IST" name="test1" finished-at="2023-07-30T10:38:36 IST" duration-ms="34291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:multiBrowser.TestNGMultiBrowser@175b9425]" started-at="2023-07-30T10:38:36 IST" name="teardown" finished-at="2023-07-30T10:38:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- multiBrowser.TestNGMultiBrowser -->
+    </test> <!-- TestOnFirefox -->
+  </suite> <!-- Suite1 -->
+</testng-results>

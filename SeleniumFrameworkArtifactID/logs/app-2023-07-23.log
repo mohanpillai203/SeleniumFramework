@@ -1,0 +1,12 @@
+[TRACE] 2023-07-23 18:11:23.150 [main] Log4jTest - This is a trace message
+[DEBUG] 2023-07-23 18:11:23.153 [main] Log4jTest - This is a debug message
+[INFO ] 2023-07-23 18:11:23.153 [main] Log4jTest - This is an information message
+[ERROR] 2023-07-23 18:11:23.153 [main] Log4jTest - This is an error message
+[WARN ] 2023-07-23 18:11:23.153 [main] Log4jTest - This is a warning  message
+[FATAL] 2023-07-23 18:11:23.153 [main] Log4jTest - This is a fatal message
+[TRACE] 2023-07-23 18:18:59.489 [main] Log4jTest - This is a trace message
+[DEBUG] 2023-07-23 18:18:59.493 [main] Log4jTest - This is a debug message
+[INFO ] 2023-07-23 18:18:59.493 [main] Log4jTest - This is an information message
+[ERROR] 2023-07-23 18:18:59.494 [main] Log4jTest - This is an error message
+[WARN ] 2023-07-23 18:18:59.494 [main] Log4jTest - This is a warning  message
+[FATAL] 2023-07-23 18:18:59.495 [main] Log4jTest - This is a fatal message
